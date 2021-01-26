@@ -1,3 +1,4 @@
+![kitty](https://raw.githubusercontent.com/shanfenggood/substrate-fe/main/kitty.png)
 # Substrate Front End Template
 
 This template allows you to create a front-end application that connects to a
